@@ -75,7 +75,7 @@ CareerPilot/
 1. **Clone the repository to your local system**
 
    ```bash
-   git clone https://github.com/your-username/CareerPilot.git
+   git clone https://github.com/anshucodes404/CareerPilot.git
    cd CareerPilot
    ```
 
